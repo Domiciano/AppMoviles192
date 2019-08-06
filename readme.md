@@ -9,3 +9,6 @@ Bienvenido al curso de aplicaciones móviles. Aquí podrá encontrar los recurso
 
 ### Clase 1
 [App Clase 1](https://github.com/Domiciano/C1Pre)
+```
+https://github.com/Domiciano/C1Pre
+```
