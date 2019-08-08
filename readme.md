@@ -8,7 +8,7 @@ Bienvenido al curso de aplicaciones móviles. Aquí podrá encontrar los recurso
 [![Examen de prerrequisitos](http://www.iconninja.com/files/825/688/946/pencil-list-done-checkmark-todo-exam-icon.png)](https://forms.gle/Y8Vjac5eqRDJCXDGA)
 
 ### Clase 1
-[App Clase 1](https://github.com/Domiciano/C1Pre)
+[App Clase 1](https://github.com/Domiciano/SolucionEjercicioClase1)
 ```
-https://github.com/Domiciano/C1Pre
+https://github.com/Domiciano/SolucionEjercicioClase1
 ```
