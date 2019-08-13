@@ -22,3 +22,7 @@ https://github.com/Domiciano/Clase2Martes
 ```
 https://github.com/Domiciano/Clase2Jueves
 ```
+[Solución del ejercicio](https://github.com/Domiciano/SolucionEjercicioClase2)
+```
+https://github.com/Domiciano/SolucionEjercicioClase2
+```
