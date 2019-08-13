@@ -18,7 +18,7 @@ https://github.com/Domiciano/SolucionEjercicioClase1
 ```
 https://github.com/Domiciano/Clase2Martes
 ```
-[App Clase 2 Martes](https://github.com/Domiciano/Clase2Jueves)
+[App Clase 2 Jueves](https://github.com/Domiciano/Clase2Jueves)
 ```
 https://github.com/Domiciano/Clase2Jueves
 ```
