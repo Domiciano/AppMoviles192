@@ -12,3 +12,13 @@ Bienvenido al curso de aplicaciones móviles. Aquí podrá encontrar los recurso
 ```
 https://github.com/Domiciano/SolucionEjercicioClase1
 ```
+
+### Clase 2
+[App Clase 2 Martes](https://github.com/Domiciano/Clase2Martes)
+```
+https://github.com/Domiciano/Clase2Martes
+```
+[App Clase 2 Martes](https://github.com/Domiciano/Clase2Jueves)
+```
+https://github.com/Domiciano/Clase2Jueves
+```
