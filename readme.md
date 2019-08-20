@@ -24,7 +24,8 @@ https://github.com/Domiciano/Clase2Jueves
 ```
 [Solución del ejercicio](https://github.com/Domiciano/SolucionEjercicioClase2)
 ```
-https://github.com/Domiciano/SolucionEjercicioClase2```
+https://github.com/Domiciano/SolucionEjercicioClase2
+```
 
 ### Clase 3
 [App Clase 3 Martes](https://github.com/Domiciano/Clase3Martes)
