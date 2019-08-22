@@ -36,3 +36,7 @@ https://github.com/Domiciano/Clase3Martes
 ```
 https://github.com/Domiciano/Clase3Jueves
 ```
+[Solución del ejercicio](https://github.com/Domiciano/SolucionEjercicioClase3)
+```
+https://github.com/Domiciano/SolucionEjercicioClase3
+```
