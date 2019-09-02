@@ -50,6 +50,10 @@ https://github.com/Domiciano/Clase4Martes
 ```
 https://github.com/Domiciano/Clase4Jueves
 ```
+[Solución del ejercicio](https://github.com/Domiciano/SolucionEjercicioClase4)
+```
+https://github.com/Domiciano/SolucionEjercicioClase4
+```
 
 ### Clase 5
 [App Clase 5 Martes](https://github.com/Domiciano/Clase5Martes)
