@@ -50,3 +50,13 @@ https://github.com/Domiciano/Clase4Martes
 ```
 https://github.com/Domiciano/Clase4Jueves
 ```
+
+### Clase 5
+[App Clase 5 Martes](https://github.com/Domiciano/Clase5Martes)
+```
+https://github.com/Domiciano/Clase5Martes
+```
+[App Clase 5 Jueves](https://github.com/Domiciano/Clase5Jueves)
+```
+https://github.com/Domiciano/Clase5Jueves
+```
