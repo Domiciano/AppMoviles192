@@ -77,3 +77,9 @@ https://github.com/Domiciano/Clase5Martes
 ```
 https://github.com/Domiciano/Clase5Jueves
 ```
+
+### Clases de diseño - Temas y estilos
+[App Clase 7](https://github.com/Domiciano/Clase7)
+```
+https://github.com/Domiciano/Clase7
+```
