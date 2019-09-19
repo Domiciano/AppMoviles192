@@ -85,7 +85,7 @@ https://github.com/Domiciano/Clase7
 ```
 
 ### Clase 8
-[App Clase ]7(https://github.com/Domiciano/Clase8)
+[App Clase 8](https://github.com/Domiciano/Clase8)
 ```
 https://github.com/Domiciano/Clase8
 ```
