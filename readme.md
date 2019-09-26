@@ -95,7 +95,9 @@ https://github.com/Domiciano/ReglasAndroid
 ```
 
 ### Clase 9
+#### Martes
 [App Clase 9](https://github.com/Domiciano/ManejoDeDatos)
 ```
 https://github.com/Domiciano/ManejoDeDatos
 ```
+#### Jueves
