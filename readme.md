@@ -4,6 +4,9 @@
 
 Bienvenido al curso de aplicaciones móviles. Aquí podrá encontrar los recursos del curso.
 
+### Notas: 2/9 calificaciones
+[NOTAS](https://docs.google.com/spreadsheets/d/1zANBQx2bh9CA1FHZY9FUVWjReI680wHHJZhNQFHT184/edit?usp=sharing)
+
 ### Proyecto final
 La consigna del proyecto final es la siguiente:
 
