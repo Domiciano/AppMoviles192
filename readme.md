@@ -82,7 +82,8 @@ https://github.com/Domiciano/Clase5Jueves
 ```
 
 ### Clases de diseño - Temas y estilos
-[App Clase ]7(https://github.com/Domiciano/Clase7)
+(Sólo presente la diagramación de los XML. No hay código en la sección de JAVA)
+[App Clase 7](https://github.com/Domiciano/Clase7)
 ```
 https://github.com/Domiciano/Clase7
 ```
