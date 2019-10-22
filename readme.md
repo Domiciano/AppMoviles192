@@ -131,3 +131,10 @@ El siguiente repositorio arranca donde dejamos el proyecto pasado
 ```
 https://github.com/Domiciano/PreClase11
 ```
+
+### Clase 12
+El siguiente repositorio arranca donde dejamos el proyecto pasado
+[App Clase 12](https://github.com/Domiciano/CLienteREST)
+```
+https://github.com/Domiciano/CLienteREST
+```
