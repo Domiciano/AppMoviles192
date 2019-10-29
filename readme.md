@@ -145,3 +145,17 @@ https://github.com/Domiciano/CLienteREST
 ```
 https://github.com/Domiciano/PreClase13
 ```
+
+### Clase 14
+### Punto de partida martes
+[App Clase 14](https://github.com/Domiciano/PreClase14Martes)
+```
+https://github.com/Domiciano/PreClase14Martes
+```
+
+
+### Punto de partida jueves
+[App Clase 14](https://github.com/Domiciano/PreClase14Jueves)
+```
+https://github.com/Domiciano/PreClase14Jueves
+```
