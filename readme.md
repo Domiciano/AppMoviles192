@@ -159,3 +159,9 @@ https://github.com/Domiciano/PreClase14Martes
 ```
 https://github.com/Domiciano/PreClase14Jueves
 ```
+
+### Plantilla Firebase Functions
+[Paginación](https://github.com/Domiciano/AppMoviles192/blob/master/FirebaseFunctions/index.js)
+
+### Recursos para publicación
+[Recursos](https://github.com/Domiciano/AppMoviles192/tree/master/Recursos%20de%20publicaci%C3%B3n)
