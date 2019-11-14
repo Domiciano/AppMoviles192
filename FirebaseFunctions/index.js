@@ -1,6 +1,7 @@
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
 const express = require('express');
+
 const ITEMS = 5;
 
 admin.initializeApp();
@@ -18,7 +19,7 @@ app.get('/photos', (req, res) => {
 	var album = req.query.uid;
 
 	admin.database().ref()
-		.child('fotos')
+		.child('photos')
 		.child(album)
 		.once('value', function(snap){
 
