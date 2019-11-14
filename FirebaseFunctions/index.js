@@ -19,7 +19,7 @@ app.get('/photos', (req, res) => {
 	var album = req.query.uid;
 
 	admin.database().ref()
-		.child('photos')
+		.child('fotos')
 		.child(album)
 		.once('value', function(snap){
 
